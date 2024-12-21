@@ -38,7 +38,7 @@ Explore ride-sharing trends and their impact.
 Analyze pricing and surge data for deeper insights.
 
 Extend analysis to include weather data for better seasonal understanding.
-## Conclusions
+## Conclusion
 Uber rides are primarily used for short-distance business purposes.
 
 Seasonal and time-based patterns significantly influence ride demand.
